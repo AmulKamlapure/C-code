@@ -1,5 +1,6 @@
 #include <stdio.h>
 
-void main() {
+int main() {
     printf("Greetings from SecondCode.c!\n");
+    return 0;
 }
