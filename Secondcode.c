@@ -1,4 +1,4 @@
 #include <stdio.h>
-void greet() {
+void main() {
     printf("Greetings from SecondCode.c!\n");
 }
